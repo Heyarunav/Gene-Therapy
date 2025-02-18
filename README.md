@@ -46,13 +46,15 @@
 
     <div class="content">
         <h2>Related Article</h2>
-        <p><a href="https://www.nature.com/articles/s41576-021-00413-4" target="_blank">Advances in Gene Therapy</a></p>
+        <p><a href="https://asgct.org/education/gene-therapy-101" target="_blank">Gene Therapy: The Future of Medicine</a></p>
     </div>
 
     <div class="video-container">
         <h2>Explainer Video</h2>
-        <iframe src="https://www.youtube.com/embed/rO8suy-hR9E" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/0aNNYEUARAk" allowfullscreen></iframe>
     </div>
 
 </body>
 </html>
+
+
